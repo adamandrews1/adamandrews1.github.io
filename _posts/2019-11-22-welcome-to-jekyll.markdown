@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default #post
 title:  "Created Personal Website!"
 date:   2019-11-22 07:06:23 -0800
 categories: first-post update
