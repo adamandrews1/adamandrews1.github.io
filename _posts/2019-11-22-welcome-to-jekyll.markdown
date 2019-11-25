@@ -5,7 +5,7 @@ date:   2019-11-22 07:06:23 -0800
 categories: first-post update
 ---
 
-I am excited to announce the launch of my personal website! I plan to make this a unified place where I can store project information, thoughts, and updates.
+I am excited to launch this personal website! I plan to make this a unified place where I can store project information, thoughts, and updates.
 
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

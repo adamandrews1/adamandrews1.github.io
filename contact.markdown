@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default #home
+title: contact
 ---
 
-<!doctype html>
+
 <html>
   <head>
     <meta charset="utf-8">

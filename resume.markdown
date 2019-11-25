@@ -1,6 +1,6 @@
 ---
 layout: default #page
-title: resume
+title: Resume
 permalink: /resume/
 ---
 
@@ -48,3 +48,6 @@ Undergraduate Researcher                                                        
 <li>William L. Martin Engineering Undergraduate Scholarship Winner <em>(2015)</em></li>
 <li>Simon Ramo Endowed Scholarship in Engineering Winner <em>(2014)</em></li>
 <li>Eagle Scout, Boy Scouts of America <em>(2012)</em></li></ul></strong></div></pre>
+<h1>Publications</h1>
+<pre><div style="white-space: pre-wrap;">
+<ul><li><em><a href="https://www.ncbi.nlm.nih.gov/pubmed/27352269">Inhibition of PI3K promotes dilation of human small airways in a rho kinase-dependent manner.</a></em> British Journal Pharmacology. 2016 Sep;173(18):2726-38. doi: 10.1111/bph.13542. Epub 2016 Aug 3. PubMed PMID: 27352269; PubMed Central PMCID: PMC4995285.</li></ul></div></pre>
