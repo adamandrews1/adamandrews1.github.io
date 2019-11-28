@@ -4,7 +4,6 @@
 title: Home
 layout: default #home
 ---
-<html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -30,21 +29,12 @@ layout: default #home
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
-  <body>
-    <div class="wrapper"  style="padding: 0">
-      <section>
-        <h1>Welcome!</h1>
-        <p>Welcome to my personal website, which I hope will become an ongoing repository for thoughts, ideas, and resources.</p>
-        <p>Please select a tab to get started.</p>
-        <p>The "Blog" section is under construction.</p>
-      </section>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
-  </body>
-</html>
+<h1>Welcome!</h1>
+<p>Welcome to my personal website, which I hope will become an ongoing repository for thoughts, ideas, and resources.</p>
+<p>Please select a tab to get started.</p>
+<p>The "Blog" section is under construction.</p>
  ![royce](/assets/royce.jpg){:class="img-responsive"}
-<div>
+
   <hr>
   <span>Website maintained by <a href="/about">Adam Andrews</a></span>
   <span> &mdash; <a href="/credits"><em>Credits</em></a></span>
-  </div>

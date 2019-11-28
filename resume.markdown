@@ -4,15 +4,17 @@ title: Resume
 permalink: /resume/
 ---
 
-<h1>Education</h1>
-
+<details><summary><em><strong>Eduction</strong></em></summary>
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Berkeley                                                                                        May 2018
 </strong></div><ul><li>Master of Engineering, Biomedical Engineering <em>(3.648 GPA)</em></li></ul></div></pre>
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Los Angeles                                                                                  June 2017
 </strong></div><ul><li><p>Bachelor of Science, Biomedical Engineering
 Concentration in Material Science,
-Biomaterials & Regenerative Medicine</p></li><li><p>Minor in Mathematics</p></li></ul></div></pre>
-<h1>Experience</h1>
+Biomaterials & Regenerative Medicine</p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
+<p></p>
+<hr>
+
+<details><summary><em><strong>Experience</strong></em></summary>
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                                             Jun 2018 – Present
 R&D Engineer                                                                                                            Los Angeles, CA</strong></div>
 <ul><li>Under supervision applies functional specifications and uses engineering tools to design hardware, electronic circuits, control systems and algorithms for product changes and new development</li>
@@ -41,13 +43,25 @@ Undergraduate Researcher                                                        
 <ul><li>Develop a novel force phenotyping platform ideal for high throughput pharmaceutical screening</li>
 <li>Measure single cell contractile forces on Fibronectin-treated PDMS patterns</li>
 <li>Execute Microfabrication, Staining, and Fluorescent Microscopy techniques</li>
-<li>Published results in the British Journal of Pharmacology</li></ul></div></pre>
-<h1>Awards</h1>
+<li>Published results in the British Journal of Pharmacology</li></ul></div></pre></details>
+<p></p>
+<hr>
+<details><summary><em><strong>Awards</strong></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
 <ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <em>(2017)</em></li>
 <li>William L. Martin Engineering Undergraduate Scholarship Winner <em>(2015)</em></li>
 <li>Simon Ramo Endowed Scholarship in Engineering Winner <em>(2014)</em></li>
-<li>Eagle Scout, Boy Scouts of America <em>(2012)</em></li></ul></strong></div></pre>
-<h1>Publications</h1>
+<li>Eagle Scout, Boy Scouts of America <em>(2012)</em></li></ul></strong></div></pre></details>
+<p></p>
+<hr>
+
+<details><summary><em><strong>Publications</strong></em></summary>
 <pre><div style="white-space: pre-wrap;">
 <ul><li><em><a href="https://www.ncbi.nlm.nih.gov/pubmed/27352269">Inhibition of PI3K promotes dilation of human small airways in a rho kinase-dependent manner.</a></em> British Journal Pharmacology. 2016 Sep;173(18):2726-38. doi: 10.1111/bph.13542. Epub 2016 Aug 3. PubMed PMID: 27352269; PubMed Central PMCID: PMC4995285.</li></ul></div></pre>
+</details>
+<p></p>
+<hr>
+<details><summary><em><strong>Download</strong></em></summary>
+<pre><div style="white-space: pre-wrap;">
+<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></em></li></ul></div></pre>
+</details>

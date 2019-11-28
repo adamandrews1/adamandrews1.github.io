@@ -29,25 +29,23 @@ title: contact
   <body>
     <div class="wrapper">
 
-      <section>
-        <h1>Contact Information</h1>
-        <h3>There are many ways to get in contact.</h3>
-        <ul><li>
-          <h4>Github</h4>
-            <p> View my projects on <a href="http://github.com/adamandrews1">GitHub</a>. </p>
-        </li>
-        <li>
-          <h4>Email</h4>
-            <p> My email address is <a>adamandrews@berkeley.edu</a>. </p>
-        </li>
-        <li>
-          <h4>Phone</h4>
-            <p> Please request my phone number through email before using this channel.</p>
-        </li>
-        </ul>
 
-      </section>
-    </div>
+  <h1>Contact Information</h1>
+  <h3>There are many ways to get in contact.</h3>
+  <ul><li>
+    <h4>Github</h4>
+      <p> View my projects on <a href="http://github.com/adamandrews1">GitHub</a>. </p>
+  </li>
+  <li>
+    <h4>Email</h4>
+      <p> My email address is <a>adamandrews@berkeley.edu</a>. </p>
+  </li>
+  <li>
+    <h4>Phone</h4>
+      <p> Please request my phone number through email before using this channel.</p>
+  </li>
+  </ul>
+  </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
   </body>
 </html>

@@ -34,16 +34,8 @@ layout: default #home
 
   </head>
   
-  <body>
-    <div class="wrapper">
+    <h1>Under Construction</h1>
+    <p>This section is a work in progress.</p>
 
-      <section>
-        <h1>Under Construction!</h1>
-        <p>This section is a work in progress.</p>
-
-      </section>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
-  </body>
 </html>
  ![royce](/assets/royce.jpg){:class="img-responsive"}
