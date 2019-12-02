@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 <h1>About</h1>
 
 <p>My name is Adam Andrews. I was born in South Orange County.</p>
