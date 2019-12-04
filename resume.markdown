@@ -51,10 +51,10 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <hr>
 <ul><li><details open><summary><em><strong>Awards</strong></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
-<ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <i>2017</i></li>
-<li>William L. Martin Engineering Undergraduate Scholarship Winner <i>2015</i></li>
-<li>Simon Ramo Endowed Scholarship in Engineering Winner <i>2014</i></li>
-<li>Eagle Scout, Boy Scouts of America <i>2012</i></li></ul></strong></div></pre></details>
+<ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <span style="float:right;">2017</span></li>
+<li>William L. Martin Engineering Undergraduate Scholarship Winner <span style="float:right;">2015</span></li>
+<li>Simon Ramo Endowed Scholarship in Engineering Winner <span style="float:right;">2014</span></li>
+<li>Eagle Scout, Boy Scouts of America <span style="float:right;">2012</span></li></ul></strong></div></pre></details>
 <p></p></li></ul>
 <hr>
 <ul><li>
