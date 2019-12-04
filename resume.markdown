@@ -3,20 +3,23 @@ layout: default #page
 title: Resume
 permalink: /resume/
 ---
+<ul><li>
+<details open><summary><em><strong>Education</strong></em></summary>
 
-<details><summary><em><strong>Eduction</strong></em></summary>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Berkeley                                                                                        May 2018
-</strong></div><ul><li>Master of Engineering, Biomedical Engineering <em>(3.648 GPA)</em></li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Los Angeles                                                                                  June 2017
-</strong></div><ul><li><p>Bachelor of Science, Biomedical Engineering
-Concentration in Material Science,
-Biomaterials & Regenerative Medicine</p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
-<p></p>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
+</strong></div>
+<ul><li>Master of Engineering, Biomedical Engineering <em>(3.648 GPA)</em></li></ul></div></pre>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
+</strong></div>
+<ul><li><p>Bachelor of Science, Biomedical Engineering
+<ul><li>Concentration in Material Science,
+Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
+<p></p></li></ul>
 <hr>
-
-<details><summary><em><strong>Experience</strong></em></summary>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                                             Jun 2018 – Present
-R&D Engineer                                                                                                            Los Angeles, CA</strong></div>
+<ul><li>
+<details><summary><em><strong>Experience</strong></em> <i><small>(expand)</small></i></summary>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                                       <span style="float:right;">Jun 2018 – Present</span>
+R&D Engineer                                       <span style="float:right;">Los Angeles, CA</span></strong></div>
 <ul><li>Under supervision applies functional specifications and uses engineering tools to design hardware, electronic circuits, control systems and algorithms for product changes and new development</li>
 <li>Develop and maintain proprietary data collection software tools</li>
 <li>Uses software tools or applications to perform routine analysis to predict performance of electronic circuits and control systems and identifies design improvements by evaluating results</li>
@@ -24,44 +27,43 @@ R&D Engineer                                                                    
 <li>Identifies testing requirements at a system level with the emphasis on complying with 60601-1 test standards and Kelvi’s procedures</li>
 <li>Coordinates with project leads to produce project deliverables by assessing input requirements and applying functional specifications</li>
 <li>Develops relationships through excellent communication skills and acts as a key resource to create innovative solutions</li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Bio-Rad Laboratories                                                                             April 2017 – December 2017
-Manufacturing and Quality Engineering Intern                            Lake Forest, CA</strong></div>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Bio-Rad Laboratories<span style="float:right;">April 2017 – December 2017</span>
+Manufacturing and Quality Engineering Intern<span style="float:right;">Lake Forest, CA</span></strong></div>
 <ul><li>Design, research, analyze, and test biomanufacturing processes</li>
 <li>Use mechanistic and phenomenological models to perform root cause analysis</li>
 <li>Support corrective and preventative action (CAPA) process</li>
 <li>Produce business impact and technical reports supporting corrective actions</li>
 <li>Manage and update SOP and MP documentation</li>
 <li>Perform process and equipment qualifications (IQ/PQ/OQ)</li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>UCSF-Berkeley Joint Capstone Project                                                         Sept 2017 – June 2019
-Data Analyst                                                                                                        Berkeley, CA</strong></div>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>UCSF-Berkeley Joint Capstone Project<span style="float:right;">Sept 2017 – June2019</span>
+Data Analyst<span style="float:right;">Berkeley, CA</span></strong></div>
 <ul><li>Utilize Python and TensorFlow to analyze clinical electrocardiogram time series</li>
 <li>Apply a series of classifiers for Premature Ventricular Contraction (PVC) electrocardiogram events including Naïve Bayes, convolutional neural network (CNN), and Random Forest</li>
 <li>Achieve a lower false positive alarm rate, reducing nurse alarm fatigue</li></ul></div></pre>
 
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Forcyte Biotechnologies, Inc.                                                                            Sept 2015 – Jan 2017
-Undergraduate Researcher                                                                               Los Angeles, CA</strong></div>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Forcyte Biotechnologies, Inc.<span style="float:right;">Sept 2015 – Jan 2017</span>
+Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></strong></div>
 <ul><li>Develop a novel force phenotyping platform ideal for high throughput pharmaceutical screening</li>
 <li>Measure single cell contractile forces on Fibronectin-treated PDMS patterns</li>
 <li>Execute Microfabrication, Staining, and Fluorescent Microscopy techniques</li>
 <li>Published results in the British Journal of Pharmacology</li></ul></div></pre></details>
-<p></p>
+<p></p></li></ul>
 <hr>
-<details><summary><em><strong>Awards</strong></em></summary>
+<ul><li><details open><summary><em><strong>Awards</strong></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
-<ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <em>(2017)</em></li>
-<li>William L. Martin Engineering Undergraduate Scholarship Winner <em>(2015)</em></li>
-<li>Simon Ramo Endowed Scholarship in Engineering Winner <em>(2014)</em></li>
-<li>Eagle Scout, Boy Scouts of America <em>(2012)</em></li></ul></strong></div></pre></details>
-<p></p>
+<ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <i>2017</i></li>
+<li>William L. Martin Engineering Undergraduate Scholarship Winner <i>2015</i></li>
+<li>Simon Ramo Endowed Scholarship in Engineering Winner <i>2014</i></li>
+<li>Eagle Scout, Boy Scouts of America <i>2012</i></li></ul></strong></div></pre></details>
+<p></p></li></ul>
 <hr>
-
-<details><summary><em><strong>Publications</strong></em></summary>
+<ul><li>
+<details open><summary><em><strong>Publications</strong></em></summary>
 <pre><div style="white-space: pre-wrap;">
 <ul><li><em><a href="https://www.ncbi.nlm.nih.gov/pubmed/27352269">Inhibition of PI3K promotes dilation of human small airways in a rho kinase-dependent manner.</a></em> British Journal Pharmacology. 2016 Sep;173(18):2726-38. doi: 10.1111/bph.13542. Epub 2016 Aug 3. PubMed PMID: 27352269; PubMed Central PMCID: PMC4995285.</li></ul></div></pre>
 </details>
-<p></p>
+<p></p></li></ul>
 <hr>
-<details><summary><em><strong>Download</strong></em></summary>
-<pre><div style="white-space: pre-wrap;">
-<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></em></li></ul></div></pre>
-</details>
+
+<div style="white-space: pre-wrap;">
+<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></em></li></ul></div>
