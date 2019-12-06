@@ -15,16 +15,29 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+    <script>function detectmob() {
+      if(window.innerWidth <= 800 && window.innerHeight <= 600) {
+        return true;
+      } else {
+        return false;
+      }
+   }</script>
   </head>
   <body>
+    <script>if (detectmob()) {
+      <select>
+        <option>Mobile Devices supported soon~</option>
+      </select> 
+      }
+    </script>
       <div id="header">
-        <nav><em><strong></ul>
+        <nav><em><strong>
           <li class="fork"><a href="/">Home</a>
           <a href="/about">About</a>
           <a href="/blog">Blog</a>
           <a href="/resume">Resume</a>
-          <a href="/contact">Contact</a></strong></li></em></ul>
+          <!-- <a href="/tools">Tools</a> -->
+          <a href="/contact">Contact</a></strong></li></em>
           </em>
         </nav>
         

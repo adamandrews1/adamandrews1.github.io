@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home
+title: Tools
 layout: default #home
 ---
   <head>
@@ -29,12 +29,9 @@ layout: default #home
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
-<h1>Welcome</h1>
-<p>Welcome to my personal website, which I plan to make an ongoing collection of thoughts, ideas, and resources.</p>
-<p>Please select a tab to get started.</p>
+<h1>Tools</h1>
 
- ![royce](/assets/royce.jpg){:class="img-responsive"}
-
-  <hr>
-  <span>Website maintained by <a href="/about">Adam Andrews</a></span>
-  <span> &mdash; <a href="/credits"><em>Credits</em></a></span>
+<p>This is a compiled list of tools I have either created or use constantly.</p>
+<hr>
+<a href="/tools/VoltageDividerCalc">Voltage Divider Calculator</a>
+<hr>

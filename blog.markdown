@@ -33,9 +33,12 @@ layout: default #home
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
-  
-    <h1>Under Construction</h1>
-    <p>This section is a work in progress.</p>
+
+  <h1>Under Construction</h1>
+  <p>This section is a work in progress.</p>
+
+
+  <progress></progress>
 
 </html>
  ![royce](/assets/royce.jpg){:class="img-responsive"}
