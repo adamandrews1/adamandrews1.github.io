@@ -61,11 +61,16 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <details open><summary><em><strong>Publications</strong></em></summary>
 <pre><div style="white-space: pre-wrap;">
 <ul><li><em><a href="https://www.ncbi.nlm.nih.gov/pubmed/27352269">Inhibition of PI3K promotes dilation of human small airways in a rho kinase-dependent manner.</a></em> British Journal Pharmacology. 2016 Sep;173(18):2726-38. doi: 10.1111/bph.13542. Epub 2016 Aug 3. PubMed PMID: 27352269; PubMed Central PMCID: PMC4995285.</li>
-<li><a href="../assets/Cardiac_Arrhythmia_Classification_for_PVC_Heartbeats.pdf"> Cardiac Arrhythmia Classification for PVC Heartbeats. 2018 April.</a>
-</li></ul></div></pre>
+<li><a href="../assets/Cardiac_Arrhythmia_Classification_for_PVC_Heartbeats.pdf"> Cardiac Arrhythmia Classification for PVC Heartbeats. </a>
+2018 April.
+</li>
+<li><a href="../assets/Folic-Acid-Functionalized_Doxil_with_Aqueous_Sorbate_Core_Increases_CellularUptake_and_Cytotoxicity.pdf">Research Proposal: Folic-Acid-Functionalized Doxil with Aqueous Sorbate Core Increases Cellular Uptake and Cytotoxicity. </a>
+2017 Dec.
+</li>
+</ul></div></pre>
 </details>
 
 <hr>
 
 <div style="white-space: pre-wrap;">
-<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></em></li></ul></div>
+<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download Resume PDF</a></em></li></ul></div>
