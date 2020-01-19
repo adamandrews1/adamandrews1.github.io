@@ -35,3 +35,5 @@ layout: default #home
 <hr>
 <a href="/tools/VoltageDividerCalc">Voltage Divider Calculator</a>
 <hr>
+<a href="/tools/PythonInterpreter">Python Interpreter</a>
+<hr>
