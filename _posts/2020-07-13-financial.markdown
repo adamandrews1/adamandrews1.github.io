@@ -1,10 +1,12 @@
 ---
-layout: default #post
-title:  "Website Creation!"
-date:   2019-11-22 07:06:23 -0800
-categories: first-post update
+layout: default
+title:  "Financial"
+author: Adam
+date:   2020-07-13 07:06:23 -0800
+categories: update
 published: true
 ---
+{{title}}
 
 I am excited to launch my personal website! I plan to make this a unified place where I can store project information, thoughts, and updates.
 
