@@ -1,13 +1,8 @@
 ---
-<<<<<<< HEAD
-<<<<<<<< HEAD:_posts/2020-07-13-financial.markdown
-=======
->>>>>>> adf16de1174dedd103bad42dacd1714c55a479da
 layout: default
 title:  "Financial"
 author: Adam
 date:   2020-07-13 07:06:23 -0800
-<<<<<<< HEAD
 categories: blog financial
 published: false
 ---
@@ -16,25 +11,12 @@ published: false
 
 ---
 
-========
-layout: default #post
-title:  "Website Creation!"
-date:   2019-11-22 07:06:23 -0800
-categories: first-post update
-published: true
----
-
-I am excited to launch my personal website! I plan to make this a unified place where I can store project information, thoughts, and updates.
->>>>>>>> adf16de1174dedd103bad42dacd1714c55a479da:_posts/2019-11-22-welcome-to-jekyll.markdown
-=======
 categories: update
 published: true
 ---
 {{title}}
 
 I am excited to launch my personal website! I plan to make this a unified place where I can store project information, thoughts, and updates.
->>>>>>> adf16de1174dedd103bad42dacd1714c55a479da
-
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
