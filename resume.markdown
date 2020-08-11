@@ -6,10 +6,10 @@ permalink: /resume/
 <ul><li>
 <details open><summary><em><strong>Education</strong></em></summary>
 
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
 </strong></div>
-<ul><li>Master of Engineering, Biomedical Engineering <em>(3.648 GPA)</em></li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
+<ul><li>Master of Engineering, Biomedical Engineering</li></ul></div></pre>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
 </strong></div>
 <ul><li><p>Bachelor of Science, Biomedical Engineering
 <ul><li>Concentration in Material Science,
@@ -18,8 +18,8 @@ Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathemati
 <hr>
 <ul><li>
 <details><summary><em><strong>Experience</strong></em> <i><small>(expand)</small></i></summary>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                                       <span style="float:right;">Jun 2018 – Present</span>
-R&D Engineer                                       <span style="float:right;">Los Angeles, CA</span></strong></div>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                              <span style="float: right;">June 2018 - Present</span>
+R&D Engineer                                       <span style="float: right;">Los Angeles, CA</span></strong></div>
 <ul><li>Under supervision applies functional specifications and uses engineering tools to design hardware, electronic circuits, control systems and algorithms for product changes and new development</li>
 <li>Develop and maintain proprietary data collection software tools</li>
 <li>Uses software tools or applications to perform routine analysis to predict performance of electronic circuits and control systems and identifies design improvements by evaluating results</li>
@@ -35,7 +35,7 @@ Manufacturing and Quality Engineering Intern<span style="float:right;">Lake Fore
 <li>Produce business impact and technical reports supporting corrective actions</li>
 <li>Manage and update SOP and MP documentation</li>
 <li>Perform process and equipment qualifications (IQ/PQ/OQ)</li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>UCSF-Berkeley Joint Capstone Project<span style="float:right;">Sept 2017 – June2019</span>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>UCSF-Berkeley Joint Capstone Project<span style="float:right;">Sept 2017 – June 2019</span>
 Data Analyst<span style="float:right;">Berkeley, CA</span></strong></div>
 <ul><li>Utilize Python and TensorFlow to analyze clinical electrocardiogram time series</li>
 <li>Apply a series of classifiers for Premature Ventricular Contraction (PVC) electrocardiogram events including Naïve Bayes, convolutional neural network (CNN), and Random Forest</li>
