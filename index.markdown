@@ -29,7 +29,7 @@ layout: default #home
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
-<h1>Welcome</h1>
+  
 <p>Welcome to my personal website, which I plan to make an ongoing collection of thoughts, ideas, and resources.</p>
 <p>Please select a tab to get started.</p>
 

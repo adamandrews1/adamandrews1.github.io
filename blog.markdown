@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Blog Index
+title: Blog
 layout: default #home
 ---
 
@@ -30,10 +30,6 @@ layout: default #home
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-
-  {%- endif -%}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}

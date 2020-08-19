@@ -3,21 +3,10 @@ layout: default #page
 title: Resume
 permalink: /resume/
 ---
-<ul><li>
-<details open><summary><em><strong>Education</strong></em></summary>
 
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
-</strong></div>
-<ul><li>Master of Engineering, Biomedical Engineering</li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
-</strong></div>
-<ul><li><p>Bachelor of Science, Biomedical Engineering
-<ul><li>Concentration in Material Science,
-Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
-<p></p></li></ul>
-<hr>
-<ul><li>
-<details><summary><em><strong>Experience</strong></em> <i><small>(expand)</small></i></summary>
+<ul>
+<li>
+<details open><summary><em><strong>Experience</strong></em> <i><small>(collapse)</small></i></summary>
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                              <span style="float: right;">June 2018 - Present</span>
 R&D Engineer                                       <span style="float: right;">Los Angeles, CA</span></strong></div>
 <ul><li>Under supervision applies functional specifications and uses engineering tools to design hardware, electronic circuits, control systems and algorithms for product changes and new development</li>
@@ -54,8 +43,23 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <span style="float:right;">2017</span></li>
 <li>William L. Martin Engineering Undergraduate Scholarship Winner <span style="float:right;">2015</span></li>
 <li>Simon Ramo Endowed Scholarship in Engineering Winner <span style="float:right;">2014</span></li>
-<li>Eagle Scout, Boy Scouts of America <span style="float:right;">2012</span></li></ul></strong></div></pre></details>
+<li>Eagle Scout, Boy Scouts of America </li></ul></strong></div></pre></details>
 <p></p></li></ul>
+
+<hr>
+<ul>
+<li>
+<details open><summary><em><strong>Education</strong></em></summary>
+
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
+</strong></div>
+<ul><li>Master of Engineering, Biomedical Engineering</li></ul></div></pre>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
+</strong></div>
+<ul><li><p>Bachelor of Science, Biomedical Engineering
+<ul><li>Concentration in Material Science,
+Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
+</li></ul>
 <hr>
 <ul><li>
 <details open><summary><em><strong>Publications</strong></em></summary>
@@ -67,10 +71,7 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <li><a href="../assets/Folic-Acid-Functionalized_Doxil_with_Aqueous_Sorbate_Core_Increases_CellularUptake_and_Cytotoxicity.pdf">Research Proposal: Folic-Acid-Functionalized Doxil with Aqueous Sorbate Core Increases Cellular Uptake and Cytotoxicity. </a>
 2017 Dec.
 </li>
-</ul></div></pre>
-</details>
-
-<hr>
+</ul></div></pre></details>
 
 <div style="white-space: pre-wrap;">
-<ul><li><em><a href="../assets/AdamAndrews_Resume_R.pdf">Download Resume PDF</a></em></li></ul></div>
+<button style="background-color: rgb(147, 189, 32); border-radius: 2px; text-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px; border-color: rgb(93, 145, 11);"><a style="color: white; padding: 10px;" href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></button></div>

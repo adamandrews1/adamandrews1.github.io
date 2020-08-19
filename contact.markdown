@@ -29,8 +29,6 @@ title: Contact
   <body>
     <div class="wrapper">
 
-
-  <h1>Contact Information</h1>
   <h3>There are many ways to get in contact.</h3>
   <ul><li>
     <h4>Github</h4>

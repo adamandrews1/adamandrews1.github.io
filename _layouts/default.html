@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -22,12 +23,15 @@
         return false;
       }
    }</script>
+   <style>
+     body {
+      font-family: Georgia, Geneva, Verdana, sans-serif;
+     }
+   </style>
   </head>
   <body>
     <script>if (detectmob()) {
-      <select>
-        <option>Mobile Devices supported soon.</option>
-      </select> 
+        <h2>Mobile Devices supported soon.</h2>
       }
     </script>
       <div id="header">
@@ -41,7 +45,7 @@
           </em>
         </nav>
         
-      </div><!-- end header -->
+      </div>
     <div class="wrapper">
      <section>
         <div id="title" style="margin: 0">
@@ -49,6 +53,7 @@
           <!--<p>{{ site.description | default: site.github.project_tagline }}</p> -->
           <!-- <hr>    -->
         </div>
+        <h1 style="font-family: lobster;">{{ page.title }}</h1>
         {{ content }}
       </section>
     </div>

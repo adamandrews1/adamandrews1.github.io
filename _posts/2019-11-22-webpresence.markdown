@@ -7,11 +7,10 @@ tags: websites web juststart
 published: true
 ---
 
-# Web Presence
 
 ---
 
-### Growing Pains
+## Growing Pains
 
 In 1999, I was four years old. I wouldn't have my first memory for a few more years. I had yet to learn that I was born into the internet age.  
 
@@ -21,7 +20,7 @@ At that time, the internet and the business models that would rise out of it wer
 
 Your website probably won't get a valuation like _pets_. But your personal or company brand still stands to gain both visibility and accessibility by setting up a website.
 
-### A Better Time Than Ever
+## A Better Time Than Ever
 
 If you are thinking about getting a web presence in 2020 or later, it would probably take you longer to do a thorough analysis of the question than it would take to figure out what content you would like to feature and to set everything up.
 
