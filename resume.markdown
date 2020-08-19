@@ -3,10 +3,36 @@ layout: default #page
 title: Resume
 permalink: /resume/
 ---
+<style>
+@keyframes phase {
+    0% {
+        background-color: #252525;
+    }
+    100% {
+        background-color: #93bd20;
+    }
+}
+
+td:hover {
+    background-color: #93bd20;
+}
+
+h2:hover {
+    background-color: #93bd20;
+    animation-name: phase;
+    animation-duration: 1s;
+    transition-timing-function: ease-in;
+    border-radius: 5px;
+    text-shadow: 1px 1px black;
+    cursor: pointer;
+}
+
+</style>
+
 
 <ul>
 <li>
-<details open><summary><em><h2>Experience</h2></em></summary>
+<details><summary><em><h2>Experience</h2></em></summary>
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                              <span style="float: right;">June 2018 - Present</span>
 Developer / Engineer                                       <span style="float: right;">Los Angeles, CA</span></strong></div>
 <ul><li>Innovate, prototype, and deliver innovative solutions spanning various technical verticals in a fast-paced startup environment</li>
@@ -40,38 +66,38 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <p></p></li></ul>
 
 <hr>
-<ul><li><details open><summary><em><h2>Skills & Interests</h2></em></summary>
+<ul><li><details><summary><em><h2>Skills & Interests</h2></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
 <table style="text-align: center;">
 <tr>
 <th>Technical Skills</th>
 <th> </th>
-<th>Certifications</th>
 <th>Interests</th>
+<th>Certifications</th>
 </tr>
 <tr>
 <td>Git</td>
 <td>PCB Design</td>
-<td>Eagle Scout</td>
 <td>Real Estate Investing</td>
+<td>Eagle Scout</td>
 </tr>
 <tr>
 <td>Django</td>
 <td>CSS3</td>
-<td>CA Real Estate Agent</td>
 <td>Beach Volleyball</td>
+<td>CA Real Estate Agent</td>
 </tr>
 <tr>
 <td>Python3</td>
 <td>C++</td>
-<td></td>
 <td>Automation</td>
+<td></td>
 </tr>
 <tr>
 <td>Bash</td>
 <td>HTML5</td>
-<td></td>
 <td>Hiking</td>
+<td></td>
 </tr>
 </table>
 
@@ -82,7 +108,7 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <hr>
 <ul>
 <li>
-<details open><summary><em><h2>Education</h2></em></summary>
+<details><summary><em><h2>Education</h2></em></summary>
 
 <pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
 </strong></div>
@@ -96,7 +122,7 @@ Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathemati
 
 <hr>
 
-<ul><li><details open><summary><em><h2>Awards</h2></em></summary>
+<ul><li><details><summary><em><h2>Awards</h2></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
 <ul><li>Muriel K. and Robert B. Allan Engineering Fund Winner <span style="float:right;">2017</span></li>
 <li>William L. Martin Engineering Undergraduate Scholarship Winner <span style="float:right;">2015</span></li>
@@ -106,7 +132,7 @@ Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathemati
 <hr>
 
 <ul><li>
-<details open><summary><em><h2>Publications</h2></em></summary>
+<details><summary><em><h2>Publications</h2></em></summary>
 <pre><div style="white-space: pre-wrap;">
 <ul><li><em><a href="https://www.ncbi.nlm.nih.gov/pubmed/27352269">Inhibition of PI3K promotes dilation of human small airways in a rho kinase-dependent manner.</a></em> British Journal Pharmacology. 2016 Sep;173(18):2726-38. doi: 10.1111/bph.13542. Epub 2016 Aug 3. PubMed PMID: 27352269; PubMed Central PMCID: PMC4995285.</li>
 <li><a href="../assets/Cardiac_Arrhythmia_Classification_for_PVC_Heartbeats.pdf"> Cardiac Arrhythmia Classification for PVC Heartbeats. </a>
