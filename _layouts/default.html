@@ -27,22 +27,36 @@
      body {
       font-family: Georgia, Geneva, Verdana, sans-serif;
      }
+
+    #header {
+      display: fixed;
+      position: top;
+    }
+
+    .nav {
+      display: fixed;
+      padding: 0px;
+    }
+
+    .fork {
+      padding: 0px 5px;
+      display: flex;
+      position: top;
+      justify-self: flex-start;
+    }
    </style>
   </head>
   <body>
-    <script>if (detectmob()) {
-        <h2>Mobile Devices supported soon.</h2>
-      }
-    </script>
       <div id="header">
-        <nav><em><strong>
-          <li class="fork"><a href="/">Home</a>
-          <a href="/about">About</a>
-          <a href="/blog">Blog</a>
-          <a href="/resume">Resume</a>
+        <nav style="background-color: transparent;">
+          <ol style="display: flex; color: transparent">
+          <li class="fork"><a href="/"><strong>Home</strong></a></li>
+          <li class="fork"><a href="/about"><strong>About</strong></a></li>
+          <li class="fork"><a href="/blog"><strong>Blog</strong></a></li>
+          <li class="fork"><a href="/resume"><strong>Resume</strong></a></li>
           <!-- <a href="/tools">Tools</a> -->
-          <a href="/contact">Contact</a></strong></li></em>
-          </em>
+          <li class="fork"><a href="/contact"><strong>Contact</strong></a></li>
+        </ol>
         </nav>
         
       </div>
