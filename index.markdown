@@ -29,11 +29,13 @@ layout: default #home
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
-  
+
 <p>Welcome to my personal website, which I plan to make an ongoing collection of thoughts, ideas, and resources.</p>
 <p>Please select a tab to get started.</p>
 
- ![royce](/assets/royce.jpg){:class="img-responsive"}
+<kbd>
+  <img src="/assets/royce.jpg" style="border-radius: 50px;">
+</kbd>
 
   <hr>
   <span>Website maintained by <a href="/about">Adam Andrews</a></span>

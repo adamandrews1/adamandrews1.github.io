@@ -9,4 +9,6 @@ permalink: /about/
 <p>I started this blog to create something for the world and for myself. I hope to be able to help people with it. </p>
 <p>Please dive in to learn more, or <a href="/contact">say hello!</a></p>
 
-![adam_photo](/assets/adam.jpg){:height="350px" width="200px"}
+<kbd>
+  <img src="/assets/adam.jpg" style="border-radius: 50%; width: 150px; height: 263px;">
+</kbd>
