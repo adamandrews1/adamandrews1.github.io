@@ -66,6 +66,22 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <p></p></li></ul>
 
 <hr>
+<ul>
+<li>
+<details><summary><em><h2>Education</h2></em></summary>
+
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
+</strong></div>
+<ul><li>Master of Engineering, Biomedical Engineering</li></ul></div></pre>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
+</strong></div>
+<ul><li><p>Bachelor of Science, Biomedical Engineering
+<ul><li>Concentration in Material Science,
+Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
+</li></ul>
+
+
+<hr>
 <ul><li><details><summary><em><h2>Skills & Interests</h2></em></summary>
 <pre><div style="white-space: pre-wrap;"><strong>
 <table style="text-align: center;">
@@ -90,7 +106,7 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 <tr>
 <td>Python3</td>
 <td>C++</td>
-<td>Automation</td>
+<td>Web Design</td>
 <td></td>
 </tr>
 <tr>
@@ -104,21 +120,6 @@ Undergraduate Researcher<span style="float:right;">Los Angeles, CA</span></stron
 </strong></div></pre></details>
 <p></p></li></ul>
 
-
-<hr>
-<ul>
-<li>
-<details><summary><em><h2>Education</h2></em></summary>
-
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Berkeley<span style="float:right;">May 2018</span>
-</strong></div>
-<ul><li>Master of Engineering, Biomedical Engineering</li></ul></div></pre>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left;"><strong>University of California, Los Angeles<span style="float:right;">June 2017</span>
-</strong></div>
-<ul><li><p>Bachelor of Science, Biomedical Engineering
-<ul><li>Concentration in Material Science,
-Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathematics</p></li></ul></div></pre></details>
-</li></ul>
 
 <hr>
 

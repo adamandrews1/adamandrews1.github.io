@@ -3,17 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default #home
-title: credits
+title: Credits
 ---
 
 <html>
-  <head>
-  <meta charset="utf-8">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script src="javascripts/respond.js"></script>
-
-  </head>
-  
   <body>
     <div class="wrapper">
 
@@ -24,7 +17,7 @@ title: credits
   </li>
   <li>
     <h4>Theme</h4>
-      <p> Modified theme by <a href="https://twitter.com/mattgraham">mattgraham</a></p>
+      <p> Modified original CSS theme by <a href="https://twitter.com/mattgraham">mattgraham</a></p>
   </li>
   <li>
     <h4>Site Icon</h4>
