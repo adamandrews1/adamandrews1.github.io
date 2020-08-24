@@ -11,7 +11,6 @@ title: Contact
   <body>
     <div class="wrapper">
 
-  <h3>There are many ways to get in contact.</h3>
   <ul><li>
     <h4>Github</h4>
       <p> View my projects on <a href="http://github.com/adamandrews1">GitHub</a>. </p>
