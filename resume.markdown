@@ -33,7 +33,11 @@ h2:hover {
 <ul>
 <li>
 <details><summary><em><h2>Experience</h2></em></summary>
-<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                              <span style="float: right;">June 2018 - Present</span>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Amazon                                                                                                        <span style="float: right;">Feb 2021 - Present</span>
+Software Development Engineer                                       <span style="float: right;">Seattle, WA</span></strong></div>
+<!-- <ul><li>Develop the best possible customer experience on the FireTV platform</li></ul> -->
+</div></pre>
+<pre><div style="white-space: pre-wrap;"><div style="text-align: left"><strong>Kelvi                                                                                                              <span style="float: right;">June 2018 - Nov 2020</span>
 Developer / Engineer                                       <span style="float: right;">Los Angeles, CA</span></strong></div>
 <ul><li>Innovate, prototype, and deliver innovative solutions spanning various technical verticals in a fast-paced startup environment</li>
 <li>Develop product embedded firmware in C++ on RTOS to support real-time operation of state-of-the-art thermal therapy medical devices</li>
@@ -93,7 +97,7 @@ Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathemati
 </tr>
 <tr>
 <td>Git</td>
-<td>PCB Design</td>
+<td>Java</td>
 <td>Real Estate Investing</td>
 <td>Eagle Scout</td>
 </tr>
@@ -143,6 +147,6 @@ Biomaterials & Regenerative Medicine</li></ul></p></li><li><p>Minor in Mathemati
 2017 Dec.
 </li>
 </ul></div></pre></details>
-
-<div style="white-space: pre-wrap;">
-<button style="background-color: rgb(147, 189, 32); border-radius: 2px; text-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px; border-color: rgb(93, 145, 11);"><a style="color: white; padding: 10px;" href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></button></div>
+<!-- Download Resume Button -->
+<!-- <div style="white-space: pre-wrap;">
+<button style="background-color: rgb(147, 189, 32); border-radius: 2px; text-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px; border-color: rgb(93, 145, 11);"><a style="color: white; padding: 10px;" href="../assets/AdamAndrews_Resume_R.pdf">Download PDF</a></button></div> -->
