@@ -1,7 +1,7 @@
 ---
 layout: default #page
 title: About Adam
-permalink: /wedding4/
+permalink: /wedding3/
 ---
 
 
